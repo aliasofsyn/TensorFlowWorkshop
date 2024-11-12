@@ -19,7 +19,7 @@ To run this project, you need to have Python 3.8+ and pip installed.
 
 ### Step 1: Clone the repository
 ```bash
-git clone <repository-url>
+git clone <https://github.com/aliasofsyn/TensorFlowWorkshop>
 cd <repository-folder>
 ```
 
@@ -63,11 +63,3 @@ The learning curve is visualized using Matplotlib to show training and validatio
 - [TensorFlow Documentation](https://www.tensorflow.org/)
 - [TensorFlow Datasets](https://www.tensorflow.org/datasets/overview)
 
-### Citations
-@article{lecun2010mnist,
-  title={MNIST handwritten digit database},
-  author={LeCun, Yann and Cortes, Corinna and Burges, CJ},
-  journal={ATT Labs [Online]. Available: http://yann.lecun.com/exdb/mnist},
-  volume={2},
-  year={2010}
-}
